@@ -1,0 +1,9 @@
+.vscode/
+.ipynb_checkpoints
+lenta_texts/
+panorama_texts/
+make_dataset.py
+navec_news_v1_1B_250K_300d_100q.tar
+
+lda.ipynb
+w2v.ipynb
